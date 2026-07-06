@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.gif" width="100%" alt="Prakhar Rai banner"/>
+<img src="./banner.gif" width="100%" alt="Prakhar Rai banner"/>
 
 <br/>
 
