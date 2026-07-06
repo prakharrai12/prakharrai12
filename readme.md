@@ -1,27 +1,1025 @@
-💫 About Me:
- Hi 👋, I'm Prakhar<br><br>### 🚀 Diploma CSE Student | Full Stack Developer | AI Enthusiast<br><br>I'm a computer science engineering student passionate about building modern web applications, AI-powered tools, and solving real-world problems with technology. I enjoy turning ideas into products and constantly exploring new technologies.<br><br>- 🌱 Currently learning **React, Node.js, TypeScript, AI Agents, and Web3**<br>- 🔭 Working on **NOOQ — a student hostel discovery platform**<br>- 💻 Interested in **Full Stack Development, AI, Automation, and Open Source**<br>- 🎯 Goal: Build products that impact millions of users<br>- ⚡ Fun fact: I spend more time fixing bugs than creating them. 😄<br><br>### 🛠️ Tech Stack<br>- Frontend: HTML, CSS, JavaScript, React, Tailwind CSS<br>- Backend: Node.js, Express<br>- Languages: Python, JavaScript, C++<br>- Tools: VS Code, Git, GitHub, Postman<br>- AI: Gemini API, LLMs, AI Agents<br><br>### 📫 Connect with me<br>- GitHub: https://github.com/prakharrai12<br>- LinkedIn: Prakhar Rai 
+[GitHub_README_Notes.docx](https://github.com/user-attachments/files/29703640/GitHub_README_Notes.docx)
 
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/prakhar12.bsky.social) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vishootslore) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Matrix RAI) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/epicstar059) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@yourwaifurim) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prakhar1532006@gmail.com) 
+<div align="center">
 
-# 💻 Tech Stack:
-![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=plastic&logo=Apache+Groovy&logoColor=white) ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=plastic&logo=Clojure&logoColor=Clojure) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Dgraph](https://img.shields.io/badge/dgraph-%23E50695.svg?style=plastic&logo=dgraph&logoColor=white) ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=plastic&logo=elixir&logoColor=white) ![Elm](https://img.shields.io/badge/Elm-60B5CC?style=plastic&logo=elm&logoColor=white) ![Crystal](https://img.shields.io/badge/crystal-%23000000.svg?style=plastic&logo=crystal&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=plastic&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=plastic&logo=fortran&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=plastic&logo=haskell&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=plastic&logo=julia&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=plastic&logo=octave&logoColor=fcd683) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=plastic&logo=alibabacloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=plastic&logo=Codeberg&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=plastic&logo=datadog&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=plastic&logo=openstack&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=plastic&logo=adonisjs&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=plastic&logo=alpinedotjs&logoColor=%238BC0D0) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=plastic&logo=ant-design&logoColor=white) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=plastic&logo=apachehive&logoColor=black) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=plastic&logo=blazor&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=plastic&logo=quasar&logoColor=black) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=plastic&logo=radix-ui&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![RayLib](https://img.shields.io/badge/RAYLIB-FFFFFF?style=plastic&logo=raylib&logoColor=black) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![Metero JS](https://img.shields.io/badge/meteorjs-%23d74c4c.svg?style=plastic&logo=meteor&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=plastic&logo=javafx&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=plastic&logo=Ionic&logoColor=white) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=plastic&logo=gatsby&logoColor=white) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=plastic&logo=framework7&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=plastic&logo=Apache%20Airflow&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=plastic&logo=Apache%20Ant&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=plastic&logo=gunicorn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=plastic&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=plastic&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=plastic&logo=sketch&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=plastic&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=plastic&logo=unrealengine&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=plastic&logo=xbox&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=plastic&logo=Itch.io&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=plastic&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=plastic&logo=ea&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=plastic&logo=riotgames&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=plastic&logo=Playstation&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=prakharrai12&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=prakharrai12&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=prakharrai12&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 𝙋𝙧𝙖𝙠𝙝𝙖𝙧 𝙍𝙖𝙞
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=prakharrai12&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
+### Engineering experiences, not just applications.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=500&size=22&duration=3500&pause=1000&color=C9A227&center=true&vCenter=true&width=850&lines=Open+Source+Developer;Diploma+CSE+Student;Full+Stack+Developer;AI+Explorer;Building+Products+That+Matter" />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=prakharrai12&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-090909?style=for-the-badge&logo=vercel&logoColor=C9A227)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prakhar_Rai-090909?style=for-the-badge&logo=linkedin&logoColor=C9A227)](https://www.linkedin.com/in/prakhar-kaushik-38731828b)
+[![Instagram](https://img.shields.io/badge/Instagram-@prakhareverie-090909?style=for-the-badge&logo=instagram&logoColor=C9A227)](https://www.instagram.com/prakhareverie/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-090909?style=for-the-badge&logo=leetcode&logoColor=C9A227)](https://leetcode.com/u/C9VARm6TAc/)
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-090909?style=for-the-badge&logo=youtube&logoColor=C9A227)](https://www.youtube.com/@yourwaifurim)
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=prakharrai12&style=for-the-badge&color=C9A227"/>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=prakharrai12&icon=4&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# About Me
+
+```cpp
+class PrakharRai {
+
+public:
+
+    string role = "Open Source Developer";
+
+    string education =
+        "Diploma in Computer Science Engineering";
+
+    string college =
+        "Amity University";
+
+    int graduation = 2027;
+
+    vector<string> interests = {
+
+        "Artificial Intelligence",
+
+        "Full Stack Development",
+
+        "Automation",
+
+        "Open Source",
+
+        "System Design"
+
+    };
+
+    vector<string> currentlyLearning = {
+
+        "React",
+
+        "SQL",
+
+        "Machine Learning",
+
+        "Modern Backend Development"
+
+    };
+
+    string mission =
+        "Engineering experiences, not just applications.";
+
+};
+```
+
+---
+
+<div align="center">
+
+## Current Focus
+
+</div>
+
+- 🚀 Building **AMISPHERE** — Smart Academic Management Platform
+
+- 🏠 Designing **NOOQ** — Student Hostel Discovery Platform
+
+- 🤖 Exploring AI Agents and intelligent automation
+
+- 📚 Learning React, SQL and Machine Learning
+
+- 🌍 Looking to contribute more to Open Source
+
+- 💡 Building products that solve real problems instead of tutorial clones
+
+---
+
+<div align="center">
+
+# Featured Projects
+
+</div>
+
+## 🌐 AMISPHERE
+
+> Digital Academic Ecosystem
+
+A modern academic management platform designed for colleges with role-based dashboards, attendance management, smart requests, analytics and scalable architecture.
+
+**Tech**
+
+`React`
+
+`Node.js`
+
+`JavaScript`
+
+`Tailwind CSS`
+
+`Firebase`
+
+---
+
+## 🏠 NOOQ
+
+> Student Living Reimagined
+
+A hostel discovery platform helping students find the perfect accommodation through better search, filters and UI.
+
+---
+
+## 🌦 WeatherSphere
+
+Minimal weather application focused on smooth interactions and clean design.
+
+---
+
+## 💬 EchoLetter
+
+A modern messaging concept inspired by handwritten conversations with a minimal interface.
+
+---
+
+## 🤖 AI Experiments
+
+Personal playground for LLMs, automation, APIs and intelligent workflows.
+
+---
+
+<div align="center">
+
+# Tech Stack
+
+</div>
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python"/>
+
+</p>
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react"/>
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+
+</p>
+
+### AI
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+</p>
+
+Gemini API • AI Agents • LLMs • Prompt Engineering
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,postman,figma"/>
+
+</p>
+
+---
+<div align="center">
+
+# GitHub Analytics
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prakharrai12&show_icons=true&theme=transparent&hide_border=true&title_color=C9A227&icon_color=C9A227&text_color=FFFFFF"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakharrai12&layout=compact&theme=transparent&hide_border=true&title_color=C9A227&text_color=FFFFFF"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="850" src="https://streak-stats.demolab.com?user=prakharrai12&theme=transparent&hide_border=true&ring=C9A227&fire=C9A227&currStreakLabel=C9A227"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# Contribution Activity
+
+</div>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prakharrai12&theme=github-compact&hide_border=true&color=C9A227&line=C9A227&point=FFFFFF)](https://github.com/prakharrai12)
+
+---
+
+<div align="center">
+
+# Contribution Snake
+
+<img src="https://raw.githubusercontent.com/prakharrai12/prakharrai12/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+> **⚠️ Note:** The snake won't appear until we add the GitHub Action workflow (I'll generate that in the next phase).
+
+---
+
+<div align="center">
+
+# GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=prakharrai12&theme=algolia&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 2026 Roadmap
+
+</div>
+
+```text
+██████████████████████████░░░░░░░░
+
+✓ Java
+✓ C++
+✓ Python
+✓ Git & GitHub
+
+███████████████░░░░░░░░░░░░░░░░░░░
+
+► React
+
+██████████░░░░░░░░░░░░░░░░░░░░░░░░
+
+► SQL
+
+████████░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+► AI / Machine Learning
+
+██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+► Open Source Contributions
+
+████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+► Portfolio Website
+```
+
+---
+
+<div align="center">
+
+# Current Objectives
+
+</div>
+
+- 🚀 Build **AMISPHERE** into a production-ready platform.
+- 🤝 Make meaningful open-source contributions.
+- 📚 Master React, SQL, and backend architecture.
+- 🧠 Deepen my understanding of AI & Machine Learning.
+- 💼 Secure impactful internship opportunities.
+- 🌍 Build software that solves real-world problems.
+
+---
+
+<div align="center">
+
+# Philosophy
+
+</div>
+
+> *"Technology isn't just about writing code—it's about creating experiences that people genuinely enjoy using."*
+
+---
+
+<div align="center">
+
+# Let's Connect
+
+<a href="https://github.com/prakharrai12">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/prakhar-kaushik-38731828b">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/prakhareverie/">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="https://leetcode.com/u/C9VARm6TAc/">
+<img src="https://skillicons.dev/icons?i=leetcode"/>
+</a>
+
+<a href="mailto:prakhar1532006@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.youtube.com/@yourwaifurim">
+<img src="https://skillicons.dev/icons?i=youtube"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for stopping by.
+
+*"Building products with intention. Learning continuously. Contributing openly."*
+
+</div>
+
+<!--
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+If you're reading the source code...
+Thanks for visiting my profile.
+Have an amazing day. 🚀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+-->
+
+---
+
+<div align="center">
+
+# Currently Building
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+## 🌐 AMISPHERE
+
+A next-generation academic ecosystem focused on simplifying student and faculty workflows.
+
+**Current Progress**
+
+- Authentication System
+- Attendance Module
+- Faculty Dashboard
+- Student Dashboard
+- Admin Portal
+- AI Integration
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=prakharrai12&repo=AMISPHERE&theme=transparent&hide_border=true"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# Engineering Timeline
+
+</div>
+
+```text
+2024
+
+Started Diploma in Computer Science Engineering
+
+↓
+
+Learned C & C++
+
+↓
+
+Built First Websites
+
+↓
+
+Discovered Open Source
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+2025
+
+JavaScript
+
+Node.js
+
+MongoDB
+
+Git & GitHub
+
+WeatherSphere
+
+AI Experiments
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+2026
+
+AMISPHERE
+
+NOOQ
+
+React
+
+SQL
+
+Machine Learning
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+2027 →
+
+Internships
+
+Open Source
+
+Portfolio
+
+Microsoft
+
+Startup Journey
+```
+
+---
+
+<div align="center">
+
+# What I'm Learning
+
+</div>
+
+| Technology | Progress |
+|------------|---------:|
+| React | ████████░░ 80% |
+| SQL | ██████░░░░ 60% |
+| Node.js | ████████░░ 80% |
+| Express | ███████░░░ 70% |
+| MongoDB | ███████░░░ 70% |
+| Machine Learning | ████░░░░░░ 40% |
+| System Design | ███░░░░░░░ 30% |
+
+---
+
+<div align="center">
+
+# Development Principles
+
+</div>
+
+> Write maintainable code.
+
+> Build for people, not just browsers.
+
+> Learn continuously.
+
+> Prefer simplicity over unnecessary complexity.
+
+> Contribute back to the community.
+
+---
+
+<div align="center">
+
+# Current Workspace
+
+</div>
+
+```yaml
+Editor: VS Code
+
+OS: Windows
+
+Version Control: Git + GitHub
+
+Design: Figma
+
+API Testing: Postman
+
+Learning:
+  - React
+  - SQL
+  - AI / ML
+
+Current Focus:
+  - Full Stack Development
+  - Open Source
+  - AI Applications
+```
+
+---
+
+<div align="center">
+
+# Open Source
+
+I'm always interested in collaborating on projects related to:
+
+🟡 Artificial Intelligence
+
+🟡 Full Stack Development
+
+🟡 Student-focused Platforms
+
+🟡 Developer Tools
+
+🟡 Automation
+
+🟡 UI/UX
+
+Feel free to reach out if you'd like to collaborate.
+
+---
+
+<div align="center">
+
+# Support My Journey
+
+If one of my projects helps you,
+consider leaving a ⭐ on the repository.
+
+It helps more than you think.
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:C9A227,100:090909&section=footer"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# Selected Work
+
+*"Every project is another step toward building software that genuinely improves people's lives."*
+
+</div>
+
+<br>
+
+## 🌐 AMISPHERE
+
+### Smart Academic Management Ecosystem
+
+A modern academic platform built to simplify how students, faculty, HODs and administrators interact.
+
+### Highlights
+
+- Multi-role authentication
+- Attendance Management
+- Student Requests
+- Faculty Dashboard
+- HOD Analytics
+- Admin Control Panel
+- AI Ready Architecture
+- Modern UI
+
+**Stack**
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,firebase,js,tailwind"/>
+</p>
+
+---
+
+## 🏠 NOOQ
+
+### Student Living. Reinvented.
+
+A modern accommodation discovery platform designed specifically for students.
+
+Instead of endless searching,
+NOOQ focuses on
+
+✔ Better Discovery
+
+✔ Cleaner UI
+
+✔ Smart Filters
+
+✔ Location-first Experience
+
+✔ Better Student Decision Making
+
+Current Status
+
+```
+█████████████░░░░░░░░░
+
+In Active Development
+```
+
+---
+
+## 🌦 WeatherSphere
+
+Weather information shouldn't feel boring.
+
+WeatherSphere combines
+
+• Modern UI
+
+• Beautiful Icons
+
+• Smooth Animations
+
+• Fast API Integration
+
+• Responsive Design
+
+to create an enjoyable weather experience.
+
+---
+
+## 💬 EchoLetter
+
+*"Messages that feel like letters."*
+
+A communication concept focused on slowing conversations down instead of speeding them up.
+
+Features include
+
+• Minimal Interface
+
+• Beautiful Typography
+
+• Thoughtful UX
+
+• Personal Conversations
+
+---
+
+## 🤖 AI Experiments
+
+A collection of experiments involving
+
+- AI Agents
+- Gemini API
+- Prompt Engineering
+- Workflow Automation
+- Intelligent Interfaces
+
+Every experiment helps me understand how AI can become genuinely useful instead of simply impressive.
+
+---
+
+<div align="center">
+
+# What I'm Interested In
+
+</div>
+
+```text
+Artificial Intelligence
+█████████████████████
+
+Full Stack Development
+██████████████████
+
+Developer Experience
+████████████████
+
+System Design
+█████████████
+
+Automation
+██████████████
+
+Open Source
+██████████████████
+```
+
+---
+
+<div align="center">
+
+# Current Learning Roadmap
+
+</div>
+
+```mermaid
+mindmap
+  root((Engineering))
+    React
+    SQL
+    Backend Architecture
+    AI
+      Agents
+      LLMs
+      Prompt Engineering
+    System Design
+    Open Source
+```
+
+---
+
+<div align="center">
+
+# Development Philosophy
+
+</div>
+
+> Build products that people remember.
+
+> Keep learning.
+
+> Stay curious.
+
+> Ship consistently.
+
+> Contribute openly.
+
+> Design with intention.
+
+---
+
+<div align="center">
+
+# Looking For
+
+🤝 Open Source Collaboration
+
+💼 Internship Opportunities
+
+🚀 Startup Projects
+
+🧠 AI Development
+
+🌍 Full Stack Development
+
+</div>
+
+---
+---
+
+<div align="center">
+
+# NOW
+
+</div>
+
+```yaml
+Currently Building:
+  - AMISPHERE
+  - NOOQ
+
+Currently Learning:
+  - React
+  - SQL
+  - Machine Learning
+  - Backend Architecture
+
+Current Goal:
+  - Become an exceptional software engineer.
+
+Long Term Vision:
+  - Build products that improve people's lives.
+```
+
+---
+
+<div align="center">
+
+# Engineering Principles
+
+</div>
+
+<table>
+
+<tr>
+
+<td width="33%" align="center">
+
+## Simplicity
+
+I believe software should solve problems without making users think.
+
+</td>
+
+<td width="33%" align="center">
+
+## Quality
+
+Clean architecture scales.
+
+Quick hacks don't.
+
+</td>
+
+<td width="33%" align="center">
+
+## Consistency
+
+Small improvements every day become extraordinary over time.
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+# Beyond Code
+
+</div>
+
+I enjoy building interfaces that feel effortless.
+
+For me,
+
+great software isn't just about functionality—
+
+it's about how it makes people feel.
+
+That's why I enjoy combining
+
+- Engineering
+
+- Design
+
+- User Experience
+
+- AI
+
+into products people actually enjoy using.
+
+---
+
+<div align="center">
+
+# Fun Facts
+
+</div>
+
+```text
+Favorite Theme
+──────────────
+Dark Mode 🌑
+
+Coffee Level
+──────────────
+██████████
+
+Preferred Editor
+──────────────
+VS Code
+
+Favorite Stack
+──────────────
+React + Node.js
+
+Dream Workspace
+──────────────
+Apple-like minimal desk
+
+Current Mission
+──────────────
+Build software worth remembering.
+```
+
+---
+
+<div align="center">
+
+# My Development Process
+
+</div>
+
+```text
+Idea
+
+↓
+
+Research
+
+↓
+
+Design
+
+↓
+
+Prototype
+
+↓
+
+Build
+
+↓
+
+Break Everything 😂
+
+↓
+
+Debug
+
+↓
+
+Ship
+
+↓
+
+Improve Again
+```
+
+---
+
+<div align="center">
+
+# Let's Build Something Amazing
+
+</div>
+
+Whether it's
+
+🚀 Open Source
+
+🧠 AI
+
+🌐 Web Development
+
+💼 Internship Opportunities
+
+or simply discussing technology,
+
+I'd love to connect.
+
+---
+
+<div align="center">
+
+<a href="mailto:prakhar1532006@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-C9A227?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
+
+<a href="https://github.com/prakharrai12">
+<img src="https://img.shields.io/badge/GitHub-Follow-090909?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/prakhar-kaushik-38731828b">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/u/C9VARm6TAc/">
+<img src="https://img.shields.io/badge/LeetCode-Solve_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090909,50:C9A227,100:090909&height=2"/>
+
+### Thanks for visiting.
+
+*"Stay curious. Keep building."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:090909,50:C9A227,100:090909&section=footer"/>
+
+</div>
+
+<!--
+
+██████╗ ██████╗  █████╗ ██╗  ██╗██╗  ██╗ █████╗ ██████╗
+██╔══██╗██╔══██╗██╔══██╗██║ ██╔╝██║  ██║██╔══██╗██╔══██╗
+██████╔╝██████╔╝███████║█████╔╝ ███████║███████║██████╔╝
+██╔═══╝ ██╔══██╗██╔══██║██╔═██╗ ██╔══██║██╔══██║██╔══██╗
+██║     ██║  ██║██║  ██║██║  ██╗██║  ██║██║  ██║██║  ██║
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+
+If you found this...
+Have a wonderful day.
+
+-->
