@@ -165,6 +165,11 @@ Gemini API · AI Agents · LLMs · Prompt Engineering
 
 ## GitHub Analytics
 
+<!-- Note: These cards are served by free third-party APIs (Vercel/demolab) that
+     occasionally rate-limit or go down. If any of these fail to load, it's a
+     temporary hosting issue on their end, not a broken link — refresh later or
+     see the "self-hosted" note at the bottom of this section. -->
+
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=prakharrai12&show_icons=true&theme=transparent&hide_border=true&title_color=C9A227&icon_color=C9A227&text_color=FFFFFF&cache_seconds=86400"/>
