@@ -167,12 +167,13 @@ Gemini API · AI Agents · LLMs · Prompt Engineering
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prakharrai12&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800&show_icons=true&theme=transparent&hide_border=true&title_color=C9A227&icon_color=C9A227&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prakharrai12&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800&layout=compact&theme=transparent&hide_border=true&title_color=C9A227&text_color=FFFFFF"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=prakharrai12&show_icons=true&theme=transparent&hide_border=true&title_color=C9A227&icon_color=C9A227&text_color=FFFFFF&cache_seconds=86400"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakharrai12&layout=compact&theme=transparent&hide_border=true&title_color=C9A227&text_color=FFFFFF&cache_seconds=86400"/>
 
 <img width="850" src="https://streak-stats.demolab.com?user=prakharrai12&theme=transparent&hide_border=true&ring=C9A227&fire=C9A227&currStreakLabel=C9A227"/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prakharrai12&theme=github-dark&hide_border=true&theme=github-compact&hide_border=true&color=C9A227&line=C9A227&point=FFFFFF)](https://github.com/prakharrai12)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prakharrai12&theme=github-dark&bg_color=0d1117&color=C9A227&line=C9A227&point=FFFFFF&hide_border=true)](https://github.com/prakharrai12)
 
 <img src="https://github-profile-trophy.vercel.app/?username=prakharrai12&theme=algolia&no-frame=true&row=1&column=6"/>
 
@@ -183,10 +184,29 @@ Gemini API · AI Agents · LLMs · Prompt Engineering
 ## Engineering Timeline
 
 ```text
-2024   Started Diploma in CSE → Learned C & C++ → Built first websites → Discovered Open Source
-2025   JavaScript · Node.js · MongoDB · Git & GitHub · WeatherSphere · AI Experiments
-2026   AMISPHERE · NOOQ · React · SQL · Machine Learning
-2027+  Internships · Open Source · Portfolio · Startup Journey
+2024
+│
+├── Started Diploma
+├── Learned C
+└── First Website
+
+2025
+│
+├── JavaScript
+├── WeatherSphere
+├── GitHub
+└── AI
+
+2026
+│
+├── NOOQ
+├── AMISPHERE
+├── React
+└── Machine Learning
+
+2027
+│
+└── Internship
 ```
 
 ---
@@ -205,7 +225,7 @@ Gemini API · AI Agents · LLMs · Prompt Engineering
 
 ## Currently Looking For
 
-🤝 Open source collaboration &nbsp;·&nbsp; 💼 Internship opportunities &nbsp;·&nbsp; 🚀 Startup projects &nbsp;·&nbsp; 🧠 AI development
+🎯 Open to ✓ Software Engineering Internships &nbsp;·&nbsp; ✓ Open Source Contributions &nbsp;·&nbsp; ✓ Startup Collaborations &nbsp;·&nbsp; ✓ AI Projects
 
 ---
 
@@ -216,11 +236,26 @@ Gemini API · AI Agents · LLMs · Prompt Engineering
 <a href="https://github.com/prakharrai12"><img src="https://skillicons.dev/icons?i=github"/></a>
 <a href="https://www.linkedin.com/in/prakhar-kaushik-38731828b"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="https://www.instagram.com/prakhareverie/"><img src="https://skillicons.dev/icons?i=instagram"/></a>
-<a href="https://leetcode.com/u/C9VARm6TAc/"><img src="https://skillicons.dev/icons?i=leetcode"/></a>
+<a href="https://leetcode.com/u/C9VARm6TAc/">
+<img height="48" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/>
+</a>
 <a href="mailto:prakhar1532006@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 <a href="https://www.youtube.com/@yourwaifurim"><img src="https://skillicons.dev/icons?i=youtube"/></a>
 
 <br/><br/>
+
+GitHub   LinkedIn   Instagram   Gmail
+
+────────────────────────────
+
+⭐ Thanks for visiting!
+
+Currently building:
+• AMISPHERE
+• NOOQ
+• WeatherSphere v2.5
+
+────────────────────────────
 
 If one of these projects helps you, a ⭐ on the repo goes a long way.
 
