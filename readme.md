@@ -66,7 +66,7 @@ public:
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="54%" valign="top">
 
 ### 🌐 [AMISPHERE](https://github.com/prakharrai12/Amisphere) — Classical University & Academic Ecosystem
 An enterprise-grade, multi-role university portal for **Students**, **Faculty Instructors**, **Heads of Department (HOD)**, and **Senate Governance (Admin)**. Reimagined in our signature Academia / Classical scholarship aesthetic with interactive timetable matrices, daily attendance rosters, fee receipts, and Ordinance IV regularizations.
@@ -76,19 +76,32 @@ An enterprise-grade, multi-role university portal for **Students**, **Faculty In
 `Next.js 16` `TypeScript` `Supabase` `Server Actions` `Tailwind CSS` `Classical Design System`
 
 <br/>
-<a href="https://github.com/prakharrai12/Amisphere">
-  <img src="https://raw.githubusercontent.com/prakharrai12/Amisphere/main/public/amisphere-preview.png" width="100%" style="border-radius:10px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" alt="Amisphere Classical University Portal Preview"/>
-</a>
+<div align="center">
+  <a href="https://github.com/prakharrai12/Amisphere">
+    <img src="https://raw.githubusercontent.com/prakharrai12/Amisphere/main/public/amisphere-student.png" width="100%" style="border-radius:8px; border: 1px solid #C9A962; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" alt="Student Portal Proclamation"/>
+  </a>
+  <br/><sub style="color: #C9A962;"><b>Volume I • Scholar Directorate (`Aarav Mehta`)</b></sub>
+</div>
 
 </td>
-<td width="40%" valign="top" align="center">
-<a href="https://github.com/prakharrai12/Amisphere">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prakharrai12&repo=Amisphere&theme=transparent&hide_border=true"/>
-</a>
+<td width="46%" valign="top" align="center">
+
+<div align="center">
+  <a href="https://github.com/prakharrai12/Amisphere">
+    <img src="https://raw.githubusercontent.com/prakharrai12/Amisphere/main/public/amisphere-faculty.png" width="100%" style="border-radius:8px; border: 1px solid #C9A962; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" alt="Faculty Teaching Workspace"/>
+  </a>
+  <br/><sub style="color: #C9A962;"><b>Volume II • Faculty Directorate (`Prof. Nikhil Sharma`)</b></sub>
+</div>
+
 <br/><br/>
-<a href="https://github.com/prakharrai12/Amisphere">
-  <img src="./amisphere-preview.png" width="100%" style="border-radius:10px; border: 1px solid #C9A962;" alt="Scholar Proclamation Banner"/>
-</a>
+
+<div align="center">
+  <a href="https://github.com/prakharrai12/Amisphere">
+    <img src="https://raw.githubusercontent.com/prakharrai12/Amisphere/main/public/amisphere-hod.png" width="100%" style="border-radius:8px; border: 1px solid #C9A962; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" alt="HOD Secretariat Operations"/>
+  </a>
+  <br/><sub style="color: #C9A962;"><b>Volume I • HOD Secretariat (`Prof. Vikramaditya Verma`)</b></sub>
+</div>
+
 </td>
 </tr>
 </table>
