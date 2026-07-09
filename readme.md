@@ -167,12 +167,12 @@ Gemini API · AI Agents · LLMs · Prompt Engineering
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prakharrai12&show_icons=true&theme=transparent&hide_border=true&title_color=C9A227&icon_color=C9A227&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakharrai12&layout=compact&theme=transparent&hide_border=true&title_color=C9A227&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prakharrai12&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800&show_icons=true&theme=transparent&hide_border=true&title_color=C9A227&icon_color=C9A227&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prakharrai12&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800&layout=compact&theme=transparent&hide_border=true&title_color=C9A227&text_color=FFFFFF"/>
 
 <img width="850" src="https://streak-stats.demolab.com?user=prakharrai12&theme=transparent&hide_border=true&ring=C9A227&fire=C9A227&currStreakLabel=C9A227"/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prakharrai12&theme=github-compact&hide_border=true&color=C9A227&line=C9A227&point=FFFFFF)](https://github.com/prakharrai12)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prakharrai12&theme=github-dark&hide_border=true&theme=github-compact&hide_border=true&color=C9A227&line=C9A227&point=FFFFFF)](https://github.com/prakharrai12)
 
 <img src="https://github-profile-trophy.vercel.app/?username=prakharrai12&theme=algolia&no-frame=true&row=1&column=6"/>
 
