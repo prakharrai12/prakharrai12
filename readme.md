@@ -66,18 +66,29 @@ public:
 
 <table>
 <tr>
-<td width="60%">
+<td width="60%" valign="top">
 
-### 🌐 AMISPHERE — Smart Academic Management Ecosystem
-A role-based academic platform for students, faculty, HODs, and admins — attendance, requests, analytics, and AI-ready architecture in one system.
+### 🌐 [AMISPHERE](https://github.com/prakharrai12/Amisphere) — Classical University & Academic Ecosystem
+An enterprise-grade, multi-role university portal for **Students**, **Faculty Instructors**, **Heads of Department (HOD)**, and **Senate Governance (Admin)**. Reimagined in our signature Academia / Classical scholarship aesthetic with interactive timetable matrices, daily attendance rosters, fee receipts, and Ordinance IV regularizations.
 
-**Progress:** Auth ✓ · Attendance ✓ · Faculty Dashboard ✓ · Student Dashboard ✓ · Admin Portal → · AI Integration →
+**Status:** Full Stack Live ✓ · 4 Governance Directorates ✓ · Roster Editor ✓ · HOD Counter-Seals ✓ · 27 Clean Routes ✓
 
-`React` `Node.js` `MongoDB` `Firebase` `Tailwind CSS`
+`Next.js 16` `TypeScript` `Supabase` `Server Actions` `Tailwind CSS` `Classical Design System`
+
+<br/>
+<a href="https://github.com/prakharrai12/Amisphere">
+  <img src="https://raw.githubusercontent.com/prakharrai12/Amisphere/main/public/amisphere-preview.png" width="100%" style="border-radius:10px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" alt="Amisphere Classical University Portal Preview"/>
+</a>
 
 </td>
-<td width="40%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prakharrai12&repo=AMISPHERE&theme=transparent&hide_border=true"/>
+<td width="40%" valign="top" align="center">
+<a href="https://github.com/prakharrai12/Amisphere">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prakharrai12&repo=Amisphere&theme=transparent&hide_border=true"/>
+</a>
+<br/><br/>
+<a href="https://github.com/prakharrai12/Amisphere">
+  <img src="./amisphere-preview.png" width="100%" style="border-radius:10px; border: 1px solid #C9A962;" alt="Scholar Proclamation Banner"/>
+</a>
 </td>
 </tr>
 </table>
@@ -92,9 +103,9 @@ A role-based academic platform for students, faculty, HODs, and admins — atten
 <tr>
 <td width="50%" valign="top">
 
-**🌐 AMISPHERE**
-Digital academic ecosystem with role-based dashboards, smart requests, and analytics.
-`React` `Node.js` `Firebase`
+**🌐 [AMISPHERE](https://github.com/prakharrai12/Amisphere)**
+Full-stack Classical university ecosystem featuring four governance portals (`Student`, `Faculty`, `HOD`, `Admin`), interactive timetable matrices, daily attendance roster verification, and Ordinance IV regularization adjudication.
+`Next.js 16` `TypeScript` `Supabase` `Server Actions` `Tailwind CSS`
 
 </td>
 <td width="50%" valign="top">
